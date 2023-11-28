@@ -1,0 +1,24 @@
+
+l
+java:S1192"ODefine a constant instead of duplicating this literal "Invalid format" 5 times.(òÎùô8…º±¬Á1
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8…º±¬Á1
+z	java:S135C"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8†º±¬Á1
+m
+java:S3655h"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(èë¶€8¢°ê°Á1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¸¨âıÿÿÿÿ8²º±¬Á1
+G	java:S106"+Replace this use of System.out by a logger.(“¼÷Õ8µº±¬Á1
+G	java:S106"+Replace this use of System.out by a logger.(òÎùô8¶º±¬Á1
+G	java:S106"+Replace this use of System.out by a logger.(òÎùô8¶º±¬Á1
+G	java:S106"+Replace this use of System.out by a logger.(òÎùô8·º±¬Á1
+G	java:S106""+Replace this use of System.out by a logger.(òÎùô8·º±¬Á1
+G	java:S106'"+Replace this use of System.out by a logger.(òÎùô8·º±¬Á1
+L	java:S106;"+Replace this use of System.out by a logger.(ø¬îïşÿÿÿÿ8¹º±¬Á1
+F	java:S106D"+Replace this use of System.out by a logger.(Û¥Èa8¼º±¬Á1
+L	java:S106G"+Replace this use of System.out by a logger.(äâĞ¦úÿÿÿÿ8½º±¬Á1
+G	java:S106L"+Replace this use of System.out by a logger.(ˆ›¸Ä8½º±¬Á1
+L	java:S106Q"+Replace this use of System.out by a logger.(÷æ¢äùÿÿÿÿ8¾º±¬Á1
+L	java:S106Z"+Replace this use of System.out by a logger.(˜¥…ùşÿÿÿÿ8¾º±¬Á1
+G	java:S106]"+Replace this use of System.out by a logger.(À™•Î8¿º±¬Á1
+`
+java:S1612i"CReplace this lambda with method reference 'King.class::isInstance'.(¥¼¾8»º±¬Á1
